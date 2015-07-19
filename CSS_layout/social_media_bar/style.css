@@ -1,0 +1,18 @@
+a {
+	display: block;
+}
+
+#social {
+	position: fixed;
+}
+
+#left, #right{
+ 	width: 400px;
+	display: inline-block;
+}
+
+#left {
+	margin-left: 100px;
+}
+
+
